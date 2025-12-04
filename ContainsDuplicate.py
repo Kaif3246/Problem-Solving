@@ -1,8 +1,11 @@
 Intuition:
-The brute force approach compares each element with every other element in the array to check for duplicates. If any duplicates are found, it returns true. This approach is straightforward but has a time complexity of O(n^2), making it less efficient for large arrays.
+The brute force approach compares each element with every other element in the array to check for duplicates.
+If any duplicates are found, it returns true. 
+This approach is straightforward but has a time complexity of O(n^2), making it less efficient for large arrays.
 
 Explanation:
-The brute force approach involves comparing each element in the array with every other element to check for duplicates. If any duplicates are found, return true, otherwise return false.
+The brute force approach involves comparing each element in the array with every other element to check for duplicates. 
+If any duplicates are found, return true, otherwise return false.
 
 Brute Force ---
 
